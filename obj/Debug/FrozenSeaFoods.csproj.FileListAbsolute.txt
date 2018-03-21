@@ -1,0 +1,27 @@
+c:\users\istehsan\source\repos\FrozenSeaFoods\FrozenSeaFoods\bin\FrozenSeaFoods.dll.config
+c:\users\istehsan\source\repos\FrozenSeaFoods\FrozenSeaFoods\bin\FrozenSeaFoods.dll
+c:\users\istehsan\source\repos\FrozenSeaFoods\FrozenSeaFoods\bin\FrozenSeaFoods.pdb
+c:\users\istehsan\source\repos\FrozenSeaFoods\FrozenSeaFoods\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\istehsan\source\repos\FrozenSeaFoods\FrozenSeaFoods\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\istehsan\source\repos\FrozenSeaFoods\FrozenSeaFoods\obj\Debug\FrozenSeaFoods.csproj.CoreCompileInputs.cache
+c:\users\istehsan\source\repos\FrozenSeaFoods\FrozenSeaFoods\obj\Debug\FrozenSeaFoods.dll
+c:\users\istehsan\source\repos\FrozenSeaFoods\FrozenSeaFoods\obj\Debug\FrozenSeaFoods.pdb
+c:\users\istehsan\source\repos\FrozenSeaFoods\FrozenSeaFoods\obj\Debug\FrozenSeaFoods.csprojResolveAssemblyReference.cache
+C:\Users\Istehsan\source\repos\FrozenSeaFoodsV2\FrozenSeaFoods\bin\FrozenSeaFoods.dll.config
+C:\Users\Istehsan\source\repos\FrozenSeaFoodsV2\FrozenSeaFoods\bin\FrozenSeaFoods.dll
+C:\Users\Istehsan\source\repos\FrozenSeaFoodsV2\FrozenSeaFoods\bin\FrozenSeaFoods.pdb
+C:\Users\Istehsan\source\repos\FrozenSeaFoodsV2\FrozenSeaFoods\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Istehsan\source\repos\FrozenSeaFoodsV2\FrozenSeaFoods\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Istehsan\source\repos\FrozenSeaFoodsV2\FrozenSeaFoods\obj\Debug\FrozenSeaFoods.csprojResolveAssemblyReference.cache
+C:\Users\Istehsan\source\repos\FrozenSeaFoodsV2\FrozenSeaFoods\obj\Debug\FrozenSeaFoods.csproj.CoreCompileInputs.cache
+C:\Users\Istehsan\source\repos\FrozenSeaFoodsV2\FrozenSeaFoods\obj\Debug\FrozenSeaFoods.dll
+C:\Users\Istehsan\source\repos\FrozenSeaFoodsV2\FrozenSeaFoods\obj\Debug\FrozenSeaFoods.pdb
+E:\Frozen Sea Foods\FrozenSeaFoodsV2\FrozenSeaFoods\bin\FrozenSeaFoods.dll.config
+E:\Frozen Sea Foods\FrozenSeaFoodsV2\FrozenSeaFoods\bin\FrozenSeaFoods.dll
+E:\Frozen Sea Foods\FrozenSeaFoodsV2\FrozenSeaFoods\bin\FrozenSeaFoods.pdb
+E:\Frozen Sea Foods\FrozenSeaFoodsV2\FrozenSeaFoods\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Frozen Sea Foods\FrozenSeaFoodsV2\FrozenSeaFoods\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Frozen Sea Foods\FrozenSeaFoodsV2\FrozenSeaFoods\obj\Debug\FrozenSeaFoods.csprojResolveAssemblyReference.cache
+E:\Frozen Sea Foods\FrozenSeaFoodsV2\FrozenSeaFoods\obj\Debug\FrozenSeaFoods.csproj.CoreCompileInputs.cache
+E:\Frozen Sea Foods\FrozenSeaFoodsV2\FrozenSeaFoods\obj\Debug\FrozenSeaFoods.dll
+E:\Frozen Sea Foods\FrozenSeaFoodsV2\FrozenSeaFoods\obj\Debug\FrozenSeaFoods.pdb
